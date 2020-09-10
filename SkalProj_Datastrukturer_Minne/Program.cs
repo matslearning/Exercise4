@@ -75,7 +75,9 @@ namespace SkalProj_Datastrukturer_Minne
     // Övning 4: CheckParenthesis()
     //
     // 1. Här föredrar jag att använda Stack för att hålla ordning på parentesföljden.
-    //    Själva reglerna kändes lämpligt att lagra i en Dictionary.
+    //
+    // 2. En litet extra rolig uppgift. Själva parentesreglerna tyckte jag det kändes
+    //    lämpligt att lagra i en Dictionary.
     //    
 
     class Program
